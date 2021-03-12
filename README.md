@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá ✋
 
-<!--
-**ThamirysSantos/ThamirysSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindos à minha página! :blush:
 
-Here are some ideas to get you started:
+Meu nome é Thamirys Gonçalves Santos, sou de Itajaí, Santa Catarina, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou cursando Desenvolvimento Web Full_Stack na Trybe :stuck_out_tongue_winking_eye:. 💻💾🖱️
+
+Atualmente trabalho remotamente como back-end em Visual Fox Pro na Itasoft Software. 📈⚙️🔗
+
+- ⚡ Meus hobbies: jogos(FPS e RPG), cerveja com os amigos e maratonar séries!
+
+- 🔎 minhas hard-skills: 
+
+<code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/html.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/css.jpeg"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/jest.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/mongo.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/node.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/pup.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/python.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/linux.png"></code>
+
+
+
+- 📫 Como me contactar:
+
+  <a href="www.linkedin.com/in/thamirysgoncalves/">
+    <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/linkedIn.png" />
+  </a>
+  <a href="mailto:thamirysgoncalves.prog@gmail.com">
+    <img align="left" alt="ThamyGmail" width="30px" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/gmail.png" />
+  </a>
