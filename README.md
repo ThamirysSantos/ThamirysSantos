@@ -23,7 +23,7 @@ Trabalho remotamente como Back-End em Visual Fox Pro na Itasoft Software.💻�
 
 - 📫 Como me contactar:
 
-  <a href="www.linkedin.com/in/thamirysgoncalves/">
+  <a href="www.linkedin.com/in/thamirysgoncalves">
     <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/linkedIn.png" />
   </a>
   <a href="mailto:thamirysgoncalves.prog@gmail.com">
