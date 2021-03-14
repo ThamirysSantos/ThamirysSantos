@@ -4,7 +4,7 @@ Bem vindos à minha página! :blush:
 
 Meu nome é Thamirys Gonçalves Santos, sou de Itajaí, Santa Catarina, Brasil.
 
-Atualmente estou cursando Desenvolvimento Web Full_Stack na Trybe :stuck_out_tongue_winking_eye:. 💻💾🖱️
+Atualmente estou cursando Desenvolvimento Web Full_Stack na Trybe. 💻💾🖱️
 
 Atualmente trabalho remotamente como back-end em Visual Fox Pro na Itasoft Software. 📈⚙️🔗
 
@@ -15,19 +15,13 @@ Atualmente trabalho remotamente como back-end em Visual Fox Pro na Itasoft Softw
 <code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/css.jpeg"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/js.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/jest.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/mongo.jpeg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/node.jpeg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/pup.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/python.jpeg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ThamirysSantos/ThamirysSantos/master/images/linux.png"></code>
-
-
 
 - 📫 Como me contactar:
 
