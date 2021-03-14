@@ -3,10 +3,8 @@
 Bem vindos à minha página! :blush:
 
 Meu nome é Thamirys Gonçalves Santos, sou de Itajaí, Santa Catarina, Brasil.
-
-Atualmente estou cursando Desenvolvimento Web Full_Stack na Trybe. 💻💾🖱️
-
-Atualmente trabalho remotamente como back-end em Visual Fox Pro na Itasoft Software. 📈⚙️🔗
+Cursando Desenvolvimento Web Full_Stack na Trybe. 💻🖱️
+Trabalho remotamente como Back-End em Visual Fox Pro na Itasoft Software.💻🖱️
 
 - ⚡ Meus hobbies: jogos(FPS e RPG), cerveja com os amigos e maratonar séries!
 
