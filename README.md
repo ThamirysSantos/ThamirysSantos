@@ -1,5 +1,5 @@
 # Hi there! 
- ## You can call me Thamy! Software Engineer from Brazil. Passionate about codes and new technologies.
+ ## You can call me Thamy! Software Engineer at Memed from Brazil. Passionate about codes and new technologies.
   
 <div align="center">
   <a href="https://github.com/ThamirysSantos">
