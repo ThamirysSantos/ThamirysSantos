@@ -16,8 +16,7 @@
     <img align="center" alt="nestJs-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
   |
   <img align="center" alt="php-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="laravel-icon" height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000)" />
-  |
+  <img align="center" alt="laravel-icon" height="30" width="30" src="https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000" />  |
   <img align="center" alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="mongodb-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
