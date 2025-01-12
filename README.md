@@ -13,7 +13,7 @@
   <img align="center" alt="js-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />     <img align="center" alt="ts-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="reactJs-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img  align="center" alt="nodeJs-icon" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="nestJs-icon" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)" />
+  <img align="center" alt="nestJs-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)" />
   |
   <img align="center" alt="php-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="laravel-icon" height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000)" />
